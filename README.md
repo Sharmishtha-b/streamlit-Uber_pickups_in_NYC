@@ -1,1 +1,1 @@
-# streamlit-Uber_pickups_in_NYC
+# Streamlit-Uber_Pickups_in_NYC
